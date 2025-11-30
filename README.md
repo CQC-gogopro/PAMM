@@ -1,4 +1,5 @@
  # PAME
+![Pipeline](Pipeline.png)
 
 ## 1. Make the enriroment
 Our code is based on  `pytorch==2.1.0+cu118` `cuda==11.8` `mamba-ssm==1.2.0.post1`. Other environments can refer to requirements.txt
